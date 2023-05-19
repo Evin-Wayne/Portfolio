@@ -2,6 +2,7 @@
 A collection of my projects to date
 
 # Sandman
+GitLab repositories currently unaccesable due to ECU's privacy settings.
 https://gitlab.com/cs-department-ecu/csci-3030-fall-2022/section-001/team-06/sandman-app
 #
 The main project of my group in software engineering 1. A webapp/ website that functions as an employee clock-in / clock-out and management system. the employee can clock-in and out as well as request time off and view their upcoming schedule, the manager can make and edit shifts. The main goal of this project was learing the process of proper documentation and development in the workplace, and implementing that in our own project.
@@ -19,4 +20,9 @@ A little website a classmate and me did as a class assignment. You input the ans
 # A Year Away
 https://www.dropbox.com/scl/fo/wuqbxrgwiibzta2p8utqe/h?dl=0&rlkey=h3pms3dnbljvyb2sfl3nq1539
 #
-A short 2D Unity game about a dog platforming his way home. Created by my group in game development 1.
+A short 2D Unity game about a dog platforming his way home. Created by my group in Game Development 1.
+
+# Brake Check
+https://www.dropbox.com/sh/dljiq86rt8kex6p/AAAHAfKGt8F06UNZXU7wY463a?dl=0
+#
+A Unity 3D Arcade Racing game, made by my group in Game Development 2.
